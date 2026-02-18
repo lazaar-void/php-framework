@@ -1,0 +1,1 @@
+<a class="big" href="?url=items/viewall">Todo successfully added. Click here to go back.</a>
