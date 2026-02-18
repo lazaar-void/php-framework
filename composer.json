@@ -1,0 +1,15 @@
+{
+  "name": "hamza_void/my_php_framework",
+  "description": "a php framework from scratch",
+  "minimum-stability": "stable",
+  "license": "Free",
+  "authors": [
+    {
+      "name": "hamza",
+      "email": "h.lazaar@void.fr"
+    }
+  ],
+  "require": {
+    "php": ">=8.2"
+  }
+}
