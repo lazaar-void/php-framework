@@ -2,7 +2,7 @@
   "name": "hamza_void/my_php_framework",
   "description": "a php framework from scratch",
   "minimum-stability": "stable",
-  "license": "Free",
+  "license": "proprietary",
   "authors": [
     {
       "name": "hamza",
